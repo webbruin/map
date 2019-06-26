@@ -1,0 +1,9 @@
+<view class="page-body">
+  <map
+      id="myMap"
+      latitude="{{latitude}}"
+      longitude="{{longitude}}"
+      markers="{{markers}}"
+      show-location
+    ></map>
+</view>
